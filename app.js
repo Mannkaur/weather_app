@@ -2,7 +2,7 @@
 
 let APPID ="04356fd5b604bdc8f2c7851705dddeec";
 let temp;
-let humid;
+let humidity;
 let loc;
 let status;
 
